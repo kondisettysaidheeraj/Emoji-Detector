@@ -1,2 +1,3 @@
 # Emoji-Detector
-Created with CodeSandbox
+This application will show the selected emoji name 
+https://4mlujt.csb.app/
